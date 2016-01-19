@@ -1,0 +1,3 @@
+freeipa:
+  pkg: ipa-server
+  pkg_dns: bind-dyndb-ldap

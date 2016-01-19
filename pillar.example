@@ -1,0 +1,5 @@
+# Example pillar data for the freeipa formula
+#
+#freeipa:
+#  lookup:
+#    pkg: 'ipa-server'
